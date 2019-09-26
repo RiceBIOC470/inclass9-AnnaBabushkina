@@ -6,5 +6,5 @@
 % gene against the refseq_rna database
 % 3. Find the three highest scoring hits from other species and identify
 % the length of the alignment and fraction of matches/mismatches. 
-% 4. Run the same query against the database est_human. Comment on the
+% 4. Run the same query against the database refseq_genomic. Comment on the
 % sequences that you find. 
